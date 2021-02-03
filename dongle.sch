@@ -1482,8 +1482,6 @@ Wire Wire Line
 Wire Wire Line
 	22550 13750 22550 14700
 Connection ~ 22550 14700
-Wire Wire Line
-	20550 13450 20550 14700
 Connection ~ 20550 14700
 Wire Wire Line
 	18900 15050 20850 15050
@@ -1593,4 +1591,6 @@ Wire Wire Line
 Connection ~ 16850 13300
 Wire Wire Line
 	16850 13300 16850 13550
+Wire Wire Line
+	20550 13400 20550 14700
 $EndSCHEMATC
