@@ -2,8 +2,8 @@
 <export version="D">
   <design>
     <source>/home/jguthrie/src/keyer-dongle/dongle/dongle-re-smd.sch</source>
-    <date>Fri 04 Dec 2020 08:44:20 PM CST</date>
-    <tool>Eeschema 5.1.8+dfsg1-1+b1</tool>
+    <date>Fri 12 Mar 2021 02:57:33 PM CST</date>
+    <tool>Eeschema 5.1.9+dfsg1-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
